@@ -1,0 +1,6 @@
+config/
+idea/
+vendor/
+composer.lock
+inc/pdo.php
+upload/
